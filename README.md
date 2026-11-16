@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Sou Rhyan Souza
 
-<!--
-**teodororhyan9-boop/teodororhyan9-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e estou iniciando minha jornada no desenvolvimento de software.
 
-Here are some ideas to get you started:
+Tenho interesse em tecnologia, programação e criação de soluções digitais. Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que estou aprendendo
+- HTML
+- CSS
+- JavaScript
+
+### Meus projetos
+- **Pare de Procrastinar:** plataforma de estudos com recursos interativos e autenticação de usuários.
+  
+### Meu objetivo
+Construir uma carreira na área de tecnologia, desenvolvendo minhas habilidades e criando projetos cada vez mais completos.
